@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub My Repository!
 
-You can use the [editor on GitHub](https://github.com/rifat6991/DataScienceX/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+This Repository Contains Different Types of Data Sets and Code Example to work with.
+Every 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Data Science
+    ## Machine Learning
+    ## Deep Learning
+  
 
-```markdown
-Syntax highlighted code block
+I will put codes and datasets here after every class.
 
-# Header 1
-## Header 2
-### Header 3
+  You can fork this repo if you want.
 
-- Bulleted
-- List
+## Every Codes and datasets are totally free to use including Open Source License (MIT).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rifat6991/DataScienceX/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to knock, For any kind of help.
