@@ -110,7 +110,9 @@ level-2 completed
 Level-3
 
 Deep Learning with neural network and TensorFlow+Scikit-Learn
+
 Topic:
+
     •	Regression
     •	R-Square Theory
     •	k-nearest neighbor 
@@ -122,6 +124,7 @@ Topic:
     •	TF-Learn
 
 Starts From:
+
     •	Regression
     •	Regressions Features and Labels
     •	Regression Training and Testing
