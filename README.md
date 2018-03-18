@@ -1,12 +1,15 @@
-#This is a Course Repository Where Course Components will be available
-Gono Bishwabidyalay Programming Club
+#This is a Course Repository Where Components for Cource "Data Science and Deep Learning using Python" will be available.
+
+This Course is powered by Gono Bishwabidyalay Programming Club (GUPC)
 
 Course Details
 
+|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=
 
 Level-1
 
 Python Basic: An introduction to the basic concepts of Python. Learn how to use Python both interactively and through a script.
+
     •	Python installation
     •	Python interface
     •	Hello world
