@@ -1,14 +1,14 @@
-#This is a Course Repository Where Components for Cource "Data Science and Deep Learning using Python" will be available.
+<h1> This is a Course Repository Where Components for Cource "Data Science and Deep Learning using Python" will be available.</h1>
 
-This Course is powered by Gono Bishwabidyalay Programming Club (GUPC)
+<h4> Supported by Gono Bishwabidyalay Programming Club (GUPC)</h4>
 
-Course Details
+<h2>Course Details</h2>
 
-|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=
 
-Level-1
 
-Python Basic: An introduction to the basic concepts of Python. Learn how to use Python both interactively and through a script.
+<h3>Level-1</h3>
+
+<b>Python Basic:</b> An introduction to the basic concepts of Python. Learn how to use Python both interactively and through a script.
 
     •	Python installation
     •	Python interface
@@ -21,7 +21,7 @@ Python Basic: An introduction to the basic concepts of Python. Learn how to use 
     •	Type conversion
 
 
-Python Lists: Learn to store, access and manipulate data in lists: the first step towards efficiently working with huge amounts of data.
+<b>Python Lists:</b> Learn to store, access and manipulate data in lists: the first step towards efficiently working with huge amounts of data.
 
     •	What is list
     •	List creation
@@ -39,7 +39,7 @@ Python Lists: Learn to store, access and manipulate data in lists: the first ste
     •	Inner workings of list
 
 
-Functions and Packages: To leverage the code that brilliant Python developers have written, you'll learn about using functions, methods and packages. This will help you to reduce the amount of code you need to solve challenging problems!
+<b>Functions and Packages:</b> To leverage the code that brilliant Python developers have written, you'll learn about using functions, methods and packages. This will help you to reduce the amount of code you need to solve challenging problems!
 
     •	Functions
     •	Familiar function
@@ -54,12 +54,10 @@ Functions and Packages: To leverage the code that brilliant Python developers ha
 
 
 
-Level-1 Completed
-
-|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|
+<h4>Level-1 Complete</h4>
 
 
-Level-2 
+<h3>Level-2</h3>
 
 
     •	Numpy: Used for nearly all data crunching in Python.
@@ -67,7 +65,7 @@ Level-2
     •	Matplotlib: A library for plotting data.
 
 
-NumPy: NumPy is a Python package to efficiently do data science. Learn to work with the NumPy array, a faster and more powerful alternative to the list, and take your first steps in data exploration.
+<b>NumPy:</b> NumPy is a Python package to efficiently do data science. Learn to work with the NumPy array, a faster and more powerful alternative to the list, and take your first steps in data exploration.
 
     •	Numpy
     •	Numpy array
@@ -86,7 +84,7 @@ NumPy: NumPy is a Python package to efficiently do data science. Learn to work w
 
 
 
-Pandas:  we will be using pandas for special cause called data framing. A Data frame is a two-dimensional data structure, i.e., data is aligned in a tabular fashion in rows and columns.
+<b>Pandas:</b>  we will be using pandas for special cause called data framing. A Data frame is a two-dimensional data structure, i.e., data is aligned in a tabular fashion in rows and columns.
 
     •	Create a Pandas DataFrame
     •	Select an Index or Column From a DataFrame
@@ -96,7 +94,7 @@ Pandas:  we will be using pandas for special cause called data framing. A Data f
     •	Format the Data in Your DataFrame
     •	Write a DataFrame to a File
 
-Matplotlib: Matplotlib will be using for the basics Python data visualization: the anatomy of a plot, pyplot and pylab, and much more.
+<b>Matplotlib:</b> Matplotlib will be using for the basics Python data visualization: the anatomy of a plot, pyplot and pylab, and much more.
 
     •	matplotlib, plotting
     •	sub-plot, axes, figure.
@@ -106,15 +104,14 @@ Matplotlib: Matplotlib will be using for the basics Python data visualization: t
     •	saving, showing, clearing plot.
 
 
-level-2 completed
+<h4>Level-2 Complete</h4>
 
-|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=
 
-Level-3
+<h3>Level-3</h3>
 
-Deep Learning with neural network and TensorFlow+Scikit-Learn
+<h4>Deep Learning with neural network and TensorFlow+Scikit-Learn</h4>
 
-Topic:
+<b>Topic:</b>
 
     •	Regression
     •	R-Square Theory
@@ -177,4 +174,5 @@ Starts From:
     •	Convolutional Neural network with tensorflow
     •	TF-Learn 
 
-*Course Completed*
+<h2>*Course Completed*</h2>
+<h3>Thank You</h3>
